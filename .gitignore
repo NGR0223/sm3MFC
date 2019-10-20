@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/sm3MFC/.vs/sm3MFC/v16
+/sm3MFC/sm3MFC/Debug
+/sm3MFC/sm3MFC/x64/Release
+/sm3MFC/x64/Release
